@@ -1,0 +1,28 @@
+.container {
+  display: grid;
+  text-align: center;
+}
+
+.melani {
+  grid-column: 1;
+  grid-row: 2;
+  background-color: aqua;
+}
+
+.zulpa {
+  grid-column: 2;
+  grid-row: 2;
+  background-color: chartreuse;
+}
+
+.husni {
+  grid-column: 3;
+  grid-row: 2;
+  background-color: chocolate;
+}
+
+.wulan {
+  grid-column: 1/span 3;
+  grid-row: 1;
+  background-color: blanchedalmond;
+}
