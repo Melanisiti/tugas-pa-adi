@@ -1,0 +1,23 @@
+.bnt {
+  border: 1px solid #e26868;
+  border-radius: 10px;
+  color: #fff;
+}
+.b-biru {
+  background-color: blue;
+}
+.b-kuning {
+  background-color: rgb(red, green, blue);
+}
+.b-merah {
+  background-color: rgb(burlywood, yellow, palevioletred);
+}
+.m1 {
+  margin: 10px;
+}
+.m2 {
+  margin: 20px;
+}
+.b-pink {
+  background-color: pink;
+}
