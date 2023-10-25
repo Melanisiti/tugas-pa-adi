@@ -1,0 +1,11 @@
+#Home .container-fluid {
+  height: 600px;
+  background-image: url("cafe.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 -250px;
+}
+
+.bg{
+  width: 100%;
+}
